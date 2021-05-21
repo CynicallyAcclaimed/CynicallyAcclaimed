@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CynicallyAcclaimed aka Snigdha Ramkumar
-- 👀 I’m interested in NLP, AI, and human-computer-interaction
+- 👀 I’m interested in NLP, AI, and Human-Computer Interaction
 - 🌱 I’m currently learning Cognitive Science @ the University of Edinburgh
 - 📫 Contact me at: snigdha.ramkumar@gmail.com
 
