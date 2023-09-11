@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CynicallyAcclaimed aka Snigdha 
 - 👀 I’m interested in NLP, AI, and Human-Computer Interaction
-- 🌱 I’m currently learning Cognitive Science @ the University of Edinburgh
+- 🌱 I’m currently working as an Accessibility Consultant at User Vision
 - 📫 Contact me at: snigdha.ramkumar@gmail.com
 
 <!---
